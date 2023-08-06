@@ -1,4 +1,6 @@
 //Edited By - Ritik Arvind Bansod
+// Mini Calculator
+
 
 import java.util.Scanner;
 public class calculator{
